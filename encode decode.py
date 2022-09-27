@@ -123,7 +123,7 @@ txtService = Entry(f1, font = ('arial', 16, 'bold'),
 						
 txtService.grid(row = 2, column = 3)
 
-# Vigenère cipher
+
 import base64
 
 # Function to encode
